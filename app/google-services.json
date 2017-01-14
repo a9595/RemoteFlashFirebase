@@ -1,0 +1,169 @@
+{
+  "project_info": {
+    "project_number": "811708999367",
+    "firebase_url": "https://hopeful-canto-115620.firebaseio.com",
+    "project_id": "hopeful-canto-115620",
+    "storage_bucket": "hopeful-canto-115620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811708999367:android:eb2b1a909cba92d3",
+        "android_client_info": {
+          "package_name": "edu.tieorange.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811708999367-sl4cdg0v989vo0ago7i22jco1sbcn327.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6c9AJRHOGnHhRnOkEm5jTyBhBmVqFgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811708999367:android:7baf76c0e7ac29d4",
+        "android_client_info": {
+          "package_name": "tieorange.com.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811708999367-sl4cdg0v989vo0ago7i22jco1sbcn327.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6c9AJRHOGnHhRnOkEm5jTyBhBmVqFgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811708999367:android:63906bd33f1d34e0",
+        "android_client_info": {
+          "package_name": "com.tieorange.remoteflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811708999367-j1c0dbbphnqnr5nl4qpgfim19q5qdkgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tieorange.remoteflash",
+            "certificate_hash": "20A07C8989229164EDEE4138812B84E8E9F9FE66"
+          }
+        },
+        {
+          "client_id": "811708999367-ikv6kal279c9l1c86910bnpfp0gsn4j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tieorange.remoteflash",
+            "certificate_hash": "08DF84ADB881104C5E2B1F2C3B110E0074A4192F"
+          }
+        },
+        {
+          "client_id": "811708999367-sl4cdg0v989vo0ago7i22jco1sbcn327.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6c9AJRHOGnHhRnOkEm5jTyBhBmVqFgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811708999367-sl4cdg0v989vo0ago7i22jco1sbcn327.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811708999367:android:25e255038a986aae",
+        "android_client_info": {
+          "package_name": "com.tieorange.remoteflashcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811708999367-u13cqo336v9hinb6jhqbbef6enc2rphk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tieorange.remoteflashcontroller",
+            "certificate_hash": "08DF84ADB881104C5E2B1F2C3B110E0074A4192F"
+          }
+        },
+        {
+          "client_id": "811708999367-sl4cdg0v989vo0ago7i22jco1sbcn327.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6c9AJRHOGnHhRnOkEm5jTyBhBmVqFgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811708999367-sl4cdg0v989vo0ago7i22jco1sbcn327.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
